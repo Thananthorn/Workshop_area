@@ -2316,7 +2316,10 @@ def ReadData(cufzip_file_path , Product_detail) :
 					Image_FilenamePAN_file.write(str(Use_PANseLong_value) + "\n")
 					Image_FilenamePAN_file.write(str(Use_PANLatSceneCenter_value) + "\n")
 					Image_FilenamePAN_file.write(str(Use_PANLongSceneCenter_value) + "\n")
-					Image_FilenamePAN_file.write(str(DSR_beginPAN))
+					Image_FilenamePAN_file.write(str(DSR_beginPAN) + "\n")
+					Image_FilenamePAN_file.write(str(0) + "\n")
+					Image_FilenamePAN_file.write(str(0) + "\n")
+					Image_FilenamePAN_file.write(str(0))
 					Image_FilenamePAN_file.close()
 
 					# # Create catalog file
@@ -2739,7 +2742,10 @@ def ReadData(cufzip_file_path , Product_detail) :
 					Image_FilenamePAN_file.write(str(Use_PANseLong_value) + "\n")
 					Image_FilenamePAN_file.write(str(Use_PANLatSceneCenter_value) + "\n")
 					Image_FilenamePAN_file.write(str(Use_PANLongSceneCenter_value) + "\n")
-					Image_FilenamePAN_file.write(str(DSR_beginPAN))
+					Image_FilenamePAN_file.write(str(DSR_beginPAN) + "\n")
+					Image_FilenamePAN_file.write(str(0) + "\n")
+					Image_FilenamePAN_file.write(str(0) + "\n")
+					Image_FilenamePAN_file.write(str(0))
 					Image_FilenamePAN_file.close()
 
 					# # Create catalog file
@@ -3162,7 +3168,10 @@ def ReadData(cufzip_file_path , Product_detail) :
 					Image_FilenamePAN_file.write(str(Use_PANseLong_value) + "\n")
 					Image_FilenamePAN_file.write(str(Use_PANLatSceneCenter_value) + "\n")
 					Image_FilenamePAN_file.write(str(Use_PANLongSceneCenter_value) + "\n")
-					Image_FilenamePAN_file.write(str(DSR_beginPAN))
+					Image_FilenamePAN_file.write(str(DSR_beginPAN) + "\n")
+					Image_FilenamePAN_file.write(str(0) + "\n")
+					Image_FilenamePAN_file.write(str(0) + "\n")
+					Image_FilenamePAN_file.write(str(0))
 					Image_FilenamePAN_file.close()
 
 					# # Create catalog file

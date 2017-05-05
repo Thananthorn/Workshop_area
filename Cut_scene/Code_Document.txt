@@ -1,0 +1,6 @@
+How to use this code ?
+1. Change line number 3205 to directory where you keep CUF file (CUF file in zip format)
+2. Change line number 3209 to directory where you keep browse images cut from CUF browse
+3. Run script : script will be pop up browse CUF zip file.
+4. Select CUF zip file and wait
+5. When script working finish go to directory where you keep browse images you will see browse image by scene
